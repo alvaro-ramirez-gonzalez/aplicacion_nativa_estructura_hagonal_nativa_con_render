@@ -1,0 +1,2 @@
+-keepattributes Signature, *Annotation*, InnerClasses
+-keep class com.example.gestionusuarios.model.** { *; }

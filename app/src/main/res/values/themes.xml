@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GestionUsuarios" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Label">
+        <item name="android:textAppearance">?attr/textAppearanceLabelLarge</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+    <style name="Value">
+        <item name="android:textAppearance">?attr/textAppearanceBodyLarge</item>
+        <item name="android:textIsSelectable">true</item>
+        <item name="android:minHeight">32dp</item>
+    </style>
+</resources>

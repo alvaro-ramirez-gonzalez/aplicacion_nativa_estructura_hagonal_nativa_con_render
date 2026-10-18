@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestión de usuarios</string>
+    <string name="loading">Cargando</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login_button">Entrar</string>
+    <string name="login_slow_hint">Si el servidor estaba inactivo, la primera respuesta puede tardar hasta un minuto. Espera, por favor.</string>
+    <string name="search_hint">Buscar en la lista descargada</string>
+    <string name="new_user">Nuevo usuario</string>
+    <string name="refresh">Actualizar</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="retry">Reintentar</string>
+    <string name="list_empty">No hay usuarios para mostrar.</string>
+    <string name="no_matches">Ningún usuario coincide con la búsqueda.</string>
+    <string name="detail_title">Detalle de usuario</string>
+    <string name="create_title">Nuevo usuario</string>
+    <string name="edit_title">Editar usuario</string>
+    <string name="name">Nombre</string>
+    <string name="role">Rol</string>
+    <string name="status">Estado</string>
+    <string name="id_label">Identificador</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="delete_title">Eliminar usuario</string>
+    <string name="delete_message">¿Eliminar a %1$s? Esta acción no se puede deshacer.</string>
+    <string name="session_expired">Tu sesión venció o fue rechazada por el servidor. Inicia sesión de nuevo.</string>
+    <string name="url_not_configured">La URL de la API no está configurada. Define API_BASE_URL en gradle.properties (ver README).</string>
+    <string name="err_email">Ingresa un correo válido.</string>
+    <string name="err_required">Este campo es obligatorio.</string>
+    <string name="err_choose">Selecciona un valor.</string>
+    <string name="password_new_optional">Nueva contraseña (opcional)</string>
+    <string name="password_notice">Aviso: no está confirmado cómo el servidor trata la contraseña en una actualización. Verifica el resultado antes de depender de esta función.</string>
+    <string name="role_admin">Administrador</string>
+    <string name="role_member">Miembro</string>
+    <string name="role_reviewer">Revisor</string>
+    <string name="status_active">Activo</string>
+    <string name="status_inactive">Inactivo</string>
+    <string name="status_pending">Pendiente</string>
+    <string name="status_blocked">Bloqueado</string>
+</resources>
